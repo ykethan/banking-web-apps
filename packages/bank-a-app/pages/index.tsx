@@ -8,6 +8,7 @@ export function Index() {
         <div className="container">
           <div id="welcome">
             <h1>Welcome to BankA</h1>
+            <h2>tesr</h2>
           </div>
 
           <div id="middle-content">
